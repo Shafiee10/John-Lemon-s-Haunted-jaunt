@@ -17,7 +17,7 @@ To play **John Lemons Haunted Jaunt**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/john-lemons-haunted-jaunt.git
+   git clone https://github.com/shafiee10/john-lemons-haunted-jaunt.git
 2.
 - Launch Unity Hub.
 - Click on "Open" and select the project directory.
